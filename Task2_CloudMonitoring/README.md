@@ -10,5 +10,5 @@ Monitored S3 bucket using AWS CloudWatch and created alerts for request count. A
 ## Files:
 - alarm_created.png
 - dashboard_metrics.png
-- email_alert_confirmed.png
+
 
